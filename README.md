@@ -6,13 +6,14 @@ Introduce some residual analysis methods and implement robust regression to impr
 RARR package introduces eight residual analysis methods to check the OLS model's adequacy and four robust regression models to adjust the original OLS model.  
 
 Residual Analysis: Part1(Residuals Scaling) including five methods to calculate Standardized Residuals, Studentized Residuals, PRESS statistic, Standardized PRESS Residuals, R-student Residuals. Part2(Residual Plots) including three methods to visualize Normal Probability Plot, Plot of Residuals Against Fitted Values, and Plot of Residuals Against Regressor of scaling residuals.  
+
 Robust Regression: including four functions to implement Huber's function, Hampel's funtion, Ramsay's function and Andrews' wave function.
 ## installation
 library(RARR)
 ## Author
-Haotian Zhai. 
+Haotian Zhai<br \>
 haotianzhai@link.cuhk.edu.cn
-Yipeng Zou. 
+Yipeng Zou<br \>
 yipengzou@link.cuhk.edu.cn
-Hongyu Cai. 
+Hongyu Cai<br \>
 hongyucai@link.cuhk.edu.cn
