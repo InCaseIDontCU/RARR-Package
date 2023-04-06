@@ -11,9 +11,9 @@ Robust Regression: including four functions to implement Huber's function, Hampe
 ## installation
 library(RARR)
 ## Author
-Haotian Zhai<br \>
+Haotian Zhai  
 haotianzhai@link.cuhk.edu.cn
-Yipeng Zou<br \>
+Yipeng Zou  
 yipengzou@link.cuhk.edu.cn
-Hongyu Cai<br \>
+Hongyu Cai  
 hongyucai@link.cuhk.edu.cn
